@@ -25,7 +25,9 @@ This project analyzes an Online Retail dataset (Kaggle) to uncover sales trends,
 - Return Rate %
 
 ## Dashboard Preview
-(Add your screenshot here)
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
+
 
 ## Files in this Repo
 - Notebook: Online_Retail_Analysis.ipynb
